@@ -61,7 +61,6 @@
     <Compile Include="ViewModels\ObservableObject.cs" />
     <Compile Include="ViewModels\PictureViewModel.cs" />
     <Compile Include="ViewModels\SlideCollectionViewModel.cs" />
-    <Compile Include="ViewModels\StartMenuViewModel.cs" />
     <Compile Include="Views\MainMenuView.xaml.cs">
       <DependentUpon>MainMenuView.xaml</DependentUpon>
     </Compile>
